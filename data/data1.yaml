@@ -1,0 +1,11 @@
+# Custom data for safety helmet
+
+
+train: large_rubbish_class/images/train
+val: large_rubbish_class/images/val
+
+# number of classes
+nc: 4
+
+# class names
+names: ['recyclable waste', 'hazardous waste', 'kitchen waste', 'other waste']
