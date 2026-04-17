@@ -1,4 +1,4 @@
-weights: .\runs1\train\exp_bad\weights\last.pt
+weights: runs1/train/exp/weights/last.pt
 cfg: ''
 data: data\data.yaml
 hyp: data\hyps\hyp.scratch.yaml
